@@ -1,0 +1,32 @@
+.navbar-inverse {
+    background-color: darkgreen;
+    border-color: #006905;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+
+.navbar-inverse .navbar-brand:hover {
+    color: yellow;
+}
+
+.navbar-inverse .navbar-brand:focus {
+    color: yellow;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a.active {
+    color: rgb(197, 197, 0);
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+    color: yellow;
+}
+
+.navbar-inverse .navbar-nav>li>a:focus {
+    color: yellow;
+}
